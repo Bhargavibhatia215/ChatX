@@ -36,6 +36,7 @@ To make the website responsive. For now only one room is created whose code is A
 ## Authors
 
 - [@Shreya Thapliyal](https://www.github.com/ShreyaThapliyal)
+-[@Bhargavi Bhatia](https://github.com/Bhargavibhatia215)
 
 
 
